@@ -2,6 +2,8 @@ package holamundo;
 
 public class Holamundo {
 	public static void main(String[] args) {
-	System.out.println("ola mundo");	
+		int j;
+		int m;
+		System.out.println("hola mundo");	
 	}
 }
